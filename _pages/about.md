@@ -12,11 +12,13 @@ I am currently a PhD student in [Hong Kong University of Science and Technology 
 
 Education
 ======
-|   |   |
-| :----:| :----: | :----: |
-| 2020-present | HKUST | PhD student |
-| 2018-2020 | HKUST | MPhil student |
-| 2014-2018 | HKUST | Undergraduate student |
+* PhD 
+  * 2020-present, Hong Kong University of Science and Technology
+* MPhil
+  * 2018-2020, Hong Kong University of Science and Technology
+* BSc
+  * 2014-2018, Hong Kong University of Science and Technology
+
 
 
 
