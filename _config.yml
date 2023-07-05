@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chon Man SOU"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chon Man SOU"
 description              : &description "Website of Chon Man SOU"
