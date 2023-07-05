@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am currently a PhD student in Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Yi Wang](https://phyw.people.ust.hk/). 
 
 
