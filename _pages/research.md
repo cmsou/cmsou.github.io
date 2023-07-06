@@ -14,7 +14,7 @@ You can find my papers in [INSPIRE-HEP](https://inspirehep.net/authors/1512636) 
 
 
 ![](/images/wordcloud_research.png =x500)
-*Wordcloud generated with the noun pharses of the abstracts of my papers.*
+*Wordcloud generated with the noun pharses in the abstracts of my papers.*
 
 <br>
 ---
