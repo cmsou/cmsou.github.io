@@ -12,11 +12,12 @@ You can find my papers in [INSPIRE-HEP](https://inspirehep.net/authors/1512636) 
 
 
 
+<img src="/images/wordcloud_research.png" width="300">
 
-![](/images/wordcloud_research.png =500x)
 *Wordcloud generated with the noun pharses in the abstracts of my papers.*
 
 <br>
+
 ---
 
 
