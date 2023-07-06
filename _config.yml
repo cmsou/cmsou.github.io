@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "C. M. Sou's webpage"
+title                    : "Chon Man SOU"
 title_separator          : "-"
 name                     : &name "Chon Man SOU"
-description              : &description "Website of Chon Man SOU"
+description              : &description "Webpage of Chon Man SOU"
 url                      : https://cmsou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cmsou/cmsou.github.io"
