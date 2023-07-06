@@ -21,17 +21,9 @@ I work on the intersection between theoretical high energy physics, cosmology an
 Quantum nature and decoherence of cosmological perturbations
 ======
 
-<div class='paper-box'>
-    <div class='paper-box-text' markdown="1">
-        Cosmic inflation explains that the large-scale structure of universe originates from the enlargement of primordial quantum vacuum fluctuations, and their quantum nature is enhanced during inflation and shown to be observable in some recent proposals. On the other hand, to explain how the cosmological perturbations coming from these quantum objects can fit today's macroscopic observations, we expect they have experienced a quantum-to-classical transition, described by decoherence.
-        How do these two effects compete with each other? We need quantitative calculations based on the current observational constraints of inflation models.
-    </div>
-    <div class='paper-box-image'>
-        <img src="/images/demo_system_environment.png" width="300">
-    </div>
-</div>
+<div class='paper-box'><div class='paper-box-text' markdown="1">Cosmic inflation explains that the large-scale structure of universe originates from the enlargement of primordial quantum vacuum fluctuations, and their quantum nature is enhanced during inflation and shown to be observable in some recent proposals. On the other hand, to explain how the cosmological perturbations coming from these quantum objects can fit today's macroscopic observations, we expect they have experienced a quantum-to-classical transition, described by decoherence. How do these two effects compete with each other? We need quantitative calculations based on the current observational constraints of inflation models.</div><div class='paper-box-image'><img src="/images/demo_system_environment.png" width="300"></div></div>
 
-Selected papers:
+**Selected papers:**
 * S. Ning, C. M. Sou, and Y. Wang, “On the decoherence of primordial gravitons,” [JHEP 06 (2023) 101](https://doi.org/10.1007/JHEP06(2023)101), [arXiv:2305.08071](https://arxiv.org/abs/2305.08071).
 * C. M. Sou, D. H. Tran, and Y. Wang, “Decoherence of cosmological perturbations
 from boundary terms and the non-classicality of gravity,” [JHEP 04 (2023) 092](https://doi.org/10.1007/JHEP04(2023)092), [arXiv:2207.04435](https://arxiv.org/abs/2207.04435).
@@ -46,6 +38,6 @@ Gravitational production of primordial massive particles
 
 Inflation is potentially a high-energy environment to produce lots of knowns particles with mass scale unreachable by particle colliders. To probe the imprints left by such particles to cosmological observations, we explore the detailed particle production process in the inflationary expansion. <img src="/images/massive_particle.png" width="300">
 
-Selected papers:
+**Selected papers:**
 * C. M. Sou, X. Tong and Y. Wang, “Chemical-potential-assisted particle production in FRW spacetimes”, [JHEP 06 (2021) 129](https://doi.org/10.1007/JHEP06(2021)129), [arXiv:2104.08772](https://arxiv.org/abs/2104.08772).
 * L. Li, T. Nakama, C. M. Sou, Y. Wang and S. Zhou, “Gravitational Production of Superheavy Dark Matter and Associated Cosmological Signatures”, [JHEP 07 (2019) 067](https://doi.org/10.1007/JHEP07(2019)067), [arXiv:1903.08842](https://arxiv.org/abs/1903.08842).
