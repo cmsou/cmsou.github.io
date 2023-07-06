@@ -11,4 +11,13 @@ I work on the intersection between theoretical high energy physics, cosmology an
 You can find my papers in [INSPIRE-HEP](https://inspirehep.net/authors/1512636) or [Google Scholar](https://scholar.google.com/citations?user=YTBV9l4AAAAJ&hl=en).
 
 
+
+
+![](/images/wordcloud_research.png)
+*Wordcloud generated with the noun pharses of the abstracts of my papers.*
+
+<br>
+---
+
+
 My research is about $$\mathcal{L}=\sqrt{-g}\frac{M_p^2}{2}R$$
