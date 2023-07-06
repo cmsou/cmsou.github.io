@@ -11,10 +11,11 @@ I work on the intersection between theoretical high energy physics, cosmology an
 You can find my papers in [INSPIRE-HEP](https://inspirehep.net/authors/1512636) or [Google Scholar](https://scholar.google.com/citations?user=YTBV9l4AAAAJ&hl=en).
 
 
-
+<center>
 <img src="/images/wordcloud_research.png" width="300">
 
 *Wordcloud generated with the noun pharses in the abstracts of my papers.*
+</center>
 
 <br>
 
