@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. [Yi Wang](https://phyw.people.ust.hk/), and I works in the [Center for Fundamental Physics](http://cfp.ust.hk/cgi-bin/cfp/eng/index.php).
+I am currently a PhD student in [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. [Yi Wang](https://phyw.people.ust.hk/), and I work in the [Center for Fundamental Physics](http://cfp.ust.hk/cgi-bin/cfp/eng/index.php).
 
 Professional background
 ======
