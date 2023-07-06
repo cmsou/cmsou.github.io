@@ -22,14 +22,13 @@ Quantum nature and decoherence of cosmological perturbations
 ======
 
 <div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-Cosmic inflation explains that the large-scale structure of universe originates from the enlargement of primordial quantum vacuum fluctuations, and their quantum nature is enhanced during inflation and shown to be observable in some recent proposals. On the other hand, to explain how the cosmological perturbations coming from these quantum objects can fit today's macroscopic observations, we expect they have experienced a quantum-to-classical transition, described by decoherence. 
-
-How do these two effects compete with each other? We need quantitative calculations based on the current observational constraints of inflation models.
-</div>
-<div class='paper-box-image'>
- <img src="/images/demo_system_environment.png" width="300">
-</div>
+    <div class='paper-box-text' markdown="1">
+        Cosmic inflation explains that the large-scale structure of universe originates from the enlargement of primordial quantum vacuum fluctuations, and their quantum nature is enhanced during inflation and shown to be observable in some recent proposals. On the other hand, to explain how the cosmological perturbations coming from these quantum objects can fit today's macroscopic observations, we expect they have experienced a quantum-to-classical transition, described by decoherence.
+        How do these two effects compete with each other? We need quantitative calculations based on the current observational constraints of inflation models.
+    </div>
+    <div class='paper-box-image'>
+        <img src="/images/demo_system_environment.png" width="300">
+    </div>
 </div>
 
 Selected papers:
