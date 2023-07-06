@@ -21,7 +21,9 @@ Professional background
 * BSc
   * **2014 - 2018:** Hong Kong University of Science and Technology
 
-
+Contact
+======
+**Email:** cmsou@connect.ust.hk
 
 
 
