@@ -20,11 +20,10 @@ I work on the intersection between theoretical high energy physics, cosmology an
 
 Quantum nature and decoherence of cosmological perturbations
 ======
+<img src='/images/demo_system_environment.png' align="right" width="300">
+inflation explains that the large-scale structure of universe originates from the enlargement of primordial quantum vacuum fluctuations, and their quantum nature is enhanced during inflation and shown to be observable in some recent proposals. On the other hand, to explain how the cosmological perturbations coming from these quantum objects can fit today's macroscopic observations, we expect they have experienced a quantum-to-classical transition, described by decoherence. How do these two effects compete with each other? We need quantitative calculations based on the current observational constraints of inflation models.
 
-<div class='wrapper'>
-    <div class='nested'>inflation explains that the large-scale structure of universe originates from the enlargement of primordial quantum vacuum fluctuations, and their quantum nature is enhanced during inflation and shown to be observable in some recent proposals. On the other hand, to explain how the cosmological perturbations coming from these quantum objects can fit today's macroscopic observations, we expect they have experienced a quantum-to-classical transition, described by decoherence. How do these two effects compete with each other? We need quantitative calculations based on the current observational constraints of inflation models.</div>
-    <div class='nested'><img src='/images/demo_system_environment.png' width="300"></div>
-</div>
+<br clear="right"/>
 
 **Selected papers:**
 * S. Ning, C. M. Sou, and Y. Wang, “On the decoherence of primordial gravitons,” [JHEP 06 (2023) 101](https://doi.org/10.1007/JHEP06(2023)101), [arXiv:2305.08071](https://arxiv.org/abs/2305.08071).
