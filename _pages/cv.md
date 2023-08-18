@@ -49,11 +49,11 @@ See [INSPIRE-HEP](https://inspirehep.net/authors/1512636){: .btn} or [Google Sch
 
 Talks & Posters
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-  <ul>{% for post in site.posters %}
+  <ul>{% for post in site.posters reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
@@ -63,7 +63,7 @@ Talks & Posters
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
