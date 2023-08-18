@@ -72,7 +72,35 @@ Teaching
 <br>
 
 ---
-  
+
+Awards and Honors
+======
+* **2020 – 2023:** Bolsas de Mérito para Estudos Pós-Graduados (Macau government scholarship for postgraduate studies)
+
+* **2020, 2022:**	HKUST RedBird PhD Scholarship 
+
+* **2018 – 2023:** Postgraduate Studentship 
+
+* **2018 – 2019:**	Best Teaching Assistant Award, HKUST Department of Physics
+
+* **2014 – 2018:**	University Scholarship 
+
+* **2017:**	Lee Hysan Overseas Scholarship 
+
+* **2017:**	School of Science Exchange Scholarship
+
+* **2017:**	HKSAR Government Scholarship Fund – Reaching Out Award
+
+* **2014 – 2017:**	Dean’s List, HKUST School of Science
+
+* **2014:**	Gold Medal of the 45th International Physics Olympiad
+
+* **2013:**	Silver Medal of the 44th International Physics Olympiad
+
+<br>
+
+---
+
 Service
 ======
 * Observer of the Hong Kong team in the 36th Chinese Physics Olympiad Finals, 2019
