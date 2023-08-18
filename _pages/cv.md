@@ -11,30 +11,22 @@
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD, advisor: [Yi Wang](https://phyw.people.ust.hk/)
+  * **2020 - present:** Hong Kong University of Science and Technology (HKUST)
+  * **Thesis:** Revisit the decoherence of cosmological perturbations with probes of their quantum nature
+* MPhil
+  * **2018 - 2020:** HKUST
+  * **Thesis:** Gravitational production of massive particles in the early universe and the imprints left in primordial fluctuations
+* BSc
+  * **2014 - 2018:** HKUST
+  * **First Class Honors**
+* Education Abroad Program
+  * **2017:** University of California, Berkeley
 
-Work experience
+Academic Visits 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2017: ** The Harvard-Smithsonian Center for Astrophysics 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,7 +34,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks & Posters
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -54,6 +46,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Observer of the Hong Kong team in the 36th Chinese Physics Olympiad Finals, 2019
+* Leader of the Macau delegation in the 49th International Physics Olympiad, 2018
+
