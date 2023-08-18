@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV in PDF format [here](http://cmsou.github.io/files/CV_SOU Chon Man_2023.pdf).
+
 Education
 ======
 * PhD, advisor: [Yi Wang](https://phyw.people.ust.hk/)
@@ -27,12 +29,6 @@ Academic Visits
 ======
 * **2017: ** The Harvard-Smithsonian Center for Astrophysics 
   
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks & Posters
 ======
