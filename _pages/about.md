@@ -20,7 +20,7 @@ I am currently a PhD student in [Hong Kong University of Science and Technology 
 Professional background
 ======
 * PhD, advisor: [Yi Wang](https://phyw.people.ust.hk/)
-  * **2020 - present:** Hong Kong University of Science and Technology
+  * **2020 - 2023:** Hong Kong University of Science and Technology
 * MPhil
   * **2018 - 2020:** Hong Kong University of Science and Technology
 * BSc
