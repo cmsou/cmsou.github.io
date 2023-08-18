@@ -27,7 +27,7 @@ Education
 
 Academic Visits 
 ======
-* **2017: ** The Harvard-Smithsonian Center for Astrophysics 
+* **2017:** The Harvard-Smithsonian Center for Astrophysics 
   
   
 Talks & Posters
