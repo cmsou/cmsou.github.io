@@ -30,18 +30,6 @@ Academic Visits
 * **2017:** The Harvard-Smithsonian Center for Astrophysics 
   
   
-Talks & Posters
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service
 ======
 * Observer of the Hong Kong team in the 36th Chinese Physics Olympiad Finals, 2019
