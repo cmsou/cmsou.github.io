@@ -66,7 +66,7 @@ Talks & Posters
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 <br>
