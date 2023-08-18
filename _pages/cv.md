@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV in PDF format [here](http://cmsou.github.io/files/CV_SOU Chon Man_2023.pdf).
+You can find my CV in [PDF](http://cmsou.github.io/files/CV_SOU Chon Man_2023.pdf).
 
 Education
 ======
@@ -28,7 +28,22 @@ Education
 Academic Visits 
 ======
 * **2017:** The Harvard-Smithsonian Center for Astrophysics 
+
+Publications and Preprints
+======
+See [<kbd> <br>  INSPIRE-HEP <br> </kbd>](https://inspirehep.net/authors/1512636) or [<kbd> <br> Google Scholar <br> </kbd>](https://scholar.google.com/citations?user=YTBV9l4AAAAJ&hl=en).
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Service
 ======
