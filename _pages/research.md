@@ -24,7 +24,7 @@ I work on the intersection between theoretical high energy physics, cosmology an
 Quantum nature and decoherence of cosmological perturbations
 ======
 <img src='/images/demo_system_environment.png' style="float: right; padding-left:15px" width="280">
-<div align="justify">
+<div>
     Inflation explains that the large-scale structure of universe originates from the enlargement of primordial quantum vacuum fluctuations, and their quantum nature is enhanced during inflation and shown to be observable in some recent proposals. On the other hand, to explain how the cosmological perturbations coming from these quantum objects can fit today's macroscopic observations, we expect they have experienced a quantum-to-classical transition, described by decoherence. How do these two effects compete with each other? We need quantitative calculations based on the current observational constraints of inflation models.
 </div>
 
@@ -44,7 +44,7 @@ Gravitational production of primordial massive particles
 ======
 
 <img src='/images/massive_particle.png' style="float: right; padding-left:15px" width="280">
-<div align="justify">
+<div>
     Inflation is potentially a high-energy environment to produce lots of knowns particles with mass scale unreachable by particle colliders. To probe the imprints left by such particles to cosmological observations, we explore the detailed particle production process in the inflationary expansion.
 </div>
 
