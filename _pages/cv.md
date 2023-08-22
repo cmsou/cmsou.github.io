@@ -29,15 +29,11 @@ Education
 * Education Abroad Program
   * **2017:** University of California, Berkeley
 
-<br>
-
 ---
 
 Academic Visits 
 ======
 * **2017:** The Harvard-Smithsonian Center for Astrophysics 
-
-<br>
 
 ---
 
@@ -45,7 +41,6 @@ Publications and Preprints
 ======
 See [INSPIRE-HEP](https://inspirehep.net/authors/1512636){: .btn} or [Google Scholar](https://scholar.google.com/citations?user=YTBV9l4AAAAJ&hl=en){: .btn}.
 
-<br>
 
 ---
 
@@ -59,7 +54,7 @@ Talks & Posters
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-<br>
+
 
 ---
   
@@ -69,7 +64,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<br>
+
 
 ---
 
@@ -97,7 +92,6 @@ Awards and Honors
 
 * **2013:**	Silver Medal of the 44th International Physics Olympiad
 
-<br>
 
 ---
 
