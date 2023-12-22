@@ -80,15 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chon Man SOU (蘇俊文)"
-  avatar           : "IMG_0790_1.jpg" #"profile.png"
-  bio              : "Study physics of the primoridal universe. Currently a PhD student in Hong Kong University of Science and Technology (HKUST)."
-  location         : "Hong Kong"
+  name             : "Chon Man SOU"
+  namecn           : "(蘇俊文)"
+  avatar           : "SOU.jpg" #"profile.png"
+  bio              : "Study physics of the primoridal universe. Currently a postdoc at Tsinghua University."
+  location         : "China"
   inspirehep       : "https://inspirehep.net/authors/1512636"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YTBV9l4AAAAJ&hl=en"
-  email            : "cmsou@connect.ust.hk"
+  email            : "cmsou@mail.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

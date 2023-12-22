@@ -14,13 +14,12 @@ toc: true
 > **Working on theoretical physics, looking for new principles and phenomena from our primordial universe.**
 
 
-I am currently a PhD student in [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. [Yi Wang](https://phyw.people.ust.hk/), and I work in the [Center for Fundamental Physics](http://cfp.ust.hk/cgi-bin/cfp/eng/index.php).
-
-
 ---
 
 Professional background
 ======
+* Postdoc
+  * **2023 - now:** Tsinghua University
 * PhD, advisor: [Yi Wang](https://phyw.people.ust.hk/)
   * **2020 - 2023:** Hong Kong University of Science and Technology (HKUST)
 * MPhil
@@ -33,7 +32,7 @@ Professional background
 
 Contact
 ======
-**Email:** cmsou@connect.ust.hk
+**Email:** cmsou@mail.tsinghua.edu.cn **or** cmsou@connect.ust.hk
 
 
 

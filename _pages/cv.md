@@ -31,6 +31,13 @@ Education
 
 ---
 
+Employment
+======
+* Postdoc
+  * **2023 - now:** Shuimu Scholar, Tsinghua University  
+
+---
+
 Academic Visits 
 ======
 * **2017:** The Harvard-Smithsonian Center for Astrophysics 
@@ -70,6 +77,8 @@ Teaching
 
 Awards and Honors
 ======
+* **2023:** Shuimu Scholar, Tsinghua University
+
 * **2020 – 2023:** Bolsas de Mérito para Estudos Pós-Graduados (Macau government scholarship for postgraduate studies)
 
 * **2020, 2022:**	HKUST RedBird PhD Scholarship 
