@@ -43,7 +43,7 @@ Gravitational production of primordial massive particles
 
 <img src='/images/massive_particle.png' style="float: right; padding-left:15px" width="280">
 <div>
-    Inflation is potentially a high-energy environment to produce lots of knowns particles with mass scale unreachable by particle colliders. To probe the imprints left by such particles to cosmological observations, we explore the detailed particle production process in the inflationary expansion.
+    Inflation is potentially a high-energy environment to produce lots of unknown particles with mass scale unreachable by particle colliders. To probe the imprints left by such particles to cosmological observations, we explore the detailed particle production process in the inflationary expansion with the asymptotic series technique.
 </div>
 
 **Selected papers:**
