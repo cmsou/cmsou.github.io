@@ -11,7 +11,7 @@ toc: true
 
 {% include base_path %}
 
-You can find my CV in [PDF](http://cmsou.github.io/files/CV_SOU Chon Man_2023.pdf){: .btn}.
+You can also find my CV in [PDF](http://cmsou.github.io/files/CV_SOU Chon Man_2023.pdf){: .btn}.
 
 ---
 
