@@ -11,9 +11,6 @@ toc: true
 
 {% include base_path %}
 
-You can also find my CV in [PDF](http://cmsou.github.io/files/CV_SOU Chon Man_2023.pdf){: .btn}.
-
----
 
 Education
 ======
@@ -38,12 +35,6 @@ Employment
 
 ---
 
-Academic Visits 
-======
-* **2017:** The Harvard-Smithsonian Center for Astrophysics 
-
----
-
 Publications and Preprints
 ======
 See [INSPIRE-HEP](https://inspirehep.net/authors/1512636){: .btn} or [Google Scholar](https://scholar.google.com/citations?user=YTBV9l4AAAAJ&hl=en){: .btn}.
@@ -51,7 +42,7 @@ See [INSPIRE-HEP](https://inspirehep.net/authors/1512636){: .btn} or [Google Sch
 
 ---
 
-Talks & Posters
+Talks and Posters
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
@@ -65,7 +56,7 @@ Talks & Posters
 
 ---
   
-Teaching
+Teaching assistants
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -83,19 +74,7 @@ Awards and Honors
 
 * **2020, 2022:**	HKUST RedBird PhD Scholarship 
 
-* **2018 – 2023:** Postgraduate Studentship 
-
-* **2018 – 2019:**	Best Teaching Assistant Award, HKUST Department of Physics
-
-* **2014 – 2018:**	University Scholarship 
-
-* **2017:**	Lee Hysan Overseas Scholarship 
-
-* **2017:**	School of Science Exchange Scholarship
-
-* **2017:**	HKSAR Government Scholarship Fund – Reaching Out Award
-
-* **2014 – 2017:**	Dean’s List, HKUST School of Science
+* **2014 – 2018:**	HKUST University Scholarship 
 
 * **2014:**	Gold Medal of the 45th International Physics Olympiad
 
