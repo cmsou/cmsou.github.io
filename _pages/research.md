@@ -29,6 +29,7 @@ Quantum nature and decoherence of cosmological perturbations
 </div>
 
 **Selected papers:**
+* C. M. Sou, J. Wang, and Y. Wang, "Cosmological Bell Tests with Decoherence Effects," [arXiv:2405.07141](https://arxiv.org/abs/2405.07141).
 * S. Ning, C. M. Sou, and Y. Wang, “On the decoherence of primordial gravitons,” [JHEP 06 (2023) 101](https://doi.org/10.1007/JHEP06(2023)101), [arXiv:2305.08071](https://arxiv.org/abs/2305.08071).
 * C. M. Sou, D. H. Tran, and Y. Wang, “Decoherence of cosmological perturbations
 from boundary terms and the non-classicality of gravity,” [JHEP 04 (2023) 092](https://doi.org/10.1007/JHEP04(2023)092), [arXiv:2207.04435](https://arxiv.org/abs/2207.04435).
