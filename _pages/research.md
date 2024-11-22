@@ -7,7 +7,7 @@ toc: true
 ---
 {% include toc %}
 
-I work on the intersection between theoretical high energy physics, cosmology, gravity and quantum information ([hep-th](https://arxiv.org/list/hep-th/recent), [astro-ph.CO](https://arxiv.org/list/astro-ph.CO/recent), [gr-qc](https://arxiv.org/list/gr-qc/recent) and [quant-ph](https://arxiv.org/list/quant-ph/recent)). You can find my papers in [INSPIRE-HEP](https://inspirehep.net/authors/1512636) or [Google Scholar](https://scholar.google.com/citations?user=YTBV9l4AAAAJ&hl=en).
+I work on the intersection between theoretical high energy physics, cosmology, quantum information and gravity ([hep-th](https://arxiv.org/list/hep-th/recent), [astro-ph.CO](https://arxiv.org/list/astro-ph.CO/recent), [quant-ph](https://arxiv.org/list/quant-ph/recent) and [gr-qc](https://arxiv.org/list/gr-qc/recent)). You can find my papers in [INSPIRE-HEP](https://inspirehep.net/authors/1512636) or [Google Scholar](https://scholar.google.com/citations?user=YTBV9l4AAAAJ&hl=en).
 
 
 <center>
