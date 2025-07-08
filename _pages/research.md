@@ -32,7 +32,7 @@ Entanglement features from heavy field scattering
 
 
 **Selected papers:**
-* C. M. Sou, Y. Wang, and X. Zhang, “Entanglement features from heavy particle scattering”[arXiv:2507.03555](https://arxiv.org/abs/2507.03555).
+* C. M. Sou, Y. Wang, and X. Zhang, “Entanglement features from heavy particle scattering,” [arXiv:2507.03555](https://arxiv.org/abs/2507.03555).
 
 <br>
 
@@ -70,5 +70,5 @@ Gravitational production of primordial massive particles
 </div>
 
 **Selected papers:**
-* C. M. Sou, X. Tong and Y. Wang, “Chemical-potential-assisted particle production in FRW spacetimes”, [JHEP 06 (2021) 129](https://doi.org/10.1007/JHEP06(2021)129), [arXiv:2104.08772](https://arxiv.org/abs/2104.08772).
-* L. Li, T. Nakama, C. M. Sou, Y. Wang and S. Zhou, “Gravitational Production of Superheavy Dark Matter and Associated Cosmological Signatures”, [JHEP 07 (2019) 067](https://doi.org/10.1007/JHEP07(2019)067), [arXiv:1903.08842](https://arxiv.org/abs/1903.08842).
+* C. M. Sou, X. Tong and Y. Wang, “Chemical-potential-assisted particle production in FRW spacetimes,” [JHEP 06 (2021) 129](https://doi.org/10.1007/JHEP06(2021)129), [arXiv:2104.08772](https://arxiv.org/abs/2104.08772).
+* L. Li, T. Nakama, C. M. Sou, Y. Wang and S. Zhou, “Gravitational Production of Superheavy Dark Matter and Associated Cosmological Signatures,” [JHEP 07 (2019) 067](https://doi.org/10.1007/JHEP07(2019)067), [arXiv:1903.08842](https://arxiv.org/abs/1903.08842).
