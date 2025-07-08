@@ -11,7 +11,14 @@ toc: true
 ---
 {% include toc %}
 
-> **Working on theoretical physics, looking for new principles and phenomena from our primordial universe.**
+> **I'm working in theoretical physics, looking for new principles and phenomena in the primordial universe.**
+
+---
+
+News
+======
+* 📝 **July 8, 2025:**
+  My first paper on particle physics x quantum information is available on [arXiv](https://arxiv.org/abs/2507.03555). We find that the entanglement generated in heavy field scattering has universal features, see [Research](https://cmsou.github.io/research/) for more detail.
 
 
 ---
@@ -32,7 +39,7 @@ Professional background
 
 Contact
 ======
-**Email:** cmsou@mail.tsinghua.edu.cn **or** cmsou@connect.ust.hk
+📧 **Email:** cmsou@mail.tsinghua.edu.cn **/** cmsou@connect.ust.hk
 
 
 

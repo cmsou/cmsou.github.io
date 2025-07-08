@@ -68,6 +68,8 @@ Teaching assistants
 
 Awards and Honors
 ======
+* **2024:** Scientific and Technological R&D Award for Postgraduates, Macau Science and Technology Development Fund
+
 * **2023:** Shuimu Scholar, Tsinghua University
 
 * **2020 – 2023:** Bolsas de Mérito para Estudos Pós-Graduados (Macau government scholarship for postgraduate studies)
@@ -85,6 +87,7 @@ Awards and Honors
 
 Service
 ======
+* Referee of Journal of Cosmology and Astroparticle Physics (JCAP)
 * Observer of the Hong Kong team in the 36th Chinese Physics Olympiad Finals, 2019
 * Leader of the Macau delegation in the 49th International Physics Olympiad, 2018
 

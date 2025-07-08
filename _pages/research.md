@@ -7,16 +7,34 @@ toc: true
 ---
 {% include toc %}
 
-I work on the intersection between theoretical high energy physics, cosmology, quantum information and gravity ([hep-th](https://arxiv.org/list/hep-th/recent), [astro-ph.CO](https://arxiv.org/list/astro-ph.CO/recent), [quant-ph](https://arxiv.org/list/quant-ph/recent) and [gr-qc](https://arxiv.org/list/gr-qc/recent)). You can find my papers in [INSPIRE-HEP](https://inspirehep.net/authors/1512636) or [Google Scholar](https://scholar.google.com/citations?user=YTBV9l4AAAAJ&hl=en).
+I work on the intersection between theoretical high energy physics, cosmology, quantum information, and gravity ([hep-th](https://arxiv.org/list/hep-th/recent), [astro-ph.CO](https://arxiv.org/list/astro-ph.CO/recent), [quant-ph](https://arxiv.org/list/quant-ph/recent), and [gr-qc](https://arxiv.org/list/gr-qc/recent)). You can find my papers in [INSPIRE-HEP](https://inspirehep.net/authors/1512636) or [Google Scholar](https://scholar.google.com/citations?user=YTBV9l4AAAAJ&hl=en).
 
 
 <center>
     <img src="/images/wordcloud_research.png" width="500">
-    <figcaption> Wordcloud generated with the noun phrases in the abstracts of my papers, updated in Oct 2024 </figcaption>
+    <figcaption> Wordcloud generated with the noun phrases in the abstracts of my papers, updated in Jul 2025 </figcaption>
 </center>
 
 <br>
 
+---
+
+Entanglement features from heavy field scattering
+======
+<img src='/images/entanglement_scattering.png' style="float: right; padding-left:15px" width="280">
+<div>
+    Quantum entanglement has attracted growing interest in collider physics in recent years. Multiple Bell tests have been proposed in various scattering processes, and signatures of entanglement have already been observed at the Large Hadron Collider (LHC). From a theoretical perspective, it is important to understand the underlying principles and generic features of entanglement in scattering. One notable result is an area law: the entanglement entropy generated in 2-to-2 elastic scattering is proportional to the total cross section. 
+</div>
+<img src='/images/demo_dip_feature.png' style="float: right; padding-left:15px" width="280">
+<div>
+    To go beyond this simplest case, we study inelastic scattering processes with more than two final-state particles, involving an intermediate heavy particle that decays into light particles. As the total energy increases, we find that universal dip features emerge in the entanglement entropy between the heavy particle’s decay products and the remaining light particles not originating from the decay.
+</div>
+
+
+**Selected papers:**
+* C. M. Sou, Y. Wang, and X. Zhang, “Entanglement features from heavy particle scattering”[arXiv:2507.03555](https://arxiv.org/abs/2507.03555).
+
+<br>
 
 
 ---
@@ -25,7 +43,11 @@ Quantum nature and decoherence of cosmological perturbations
 ======
 <img src='/images/demo_system_environment.png' style="float: right; padding-left:15px" width="280">
 <div>
-    Inflation explains that the large-scale structure of universe originates from the enlargement of primordial quantum vacuum fluctuations, and their quantum nature is enhanced during inflation and shown to be observable in some recent proposals. On the other hand, to explain how the cosmological perturbations coming from these quantum objects can fit today's macroscopic observations, we expect they have experienced a quantum-to-classical transition, described by decoherence. How do these two effects compete with each other? We need quantitative calculations based on the current observational constraints of inflation models.
+    Inflation proposes that the large-scale structure of the universe originates from the amplification of primordial quantum vacuum fluctuations. These fluctuations are stretched to cosmological scales during inflation, and their quantum features may remain observable, as suggested in some recent proposals. However, to reconcile these quantum-origin perturbations with the classical structures we observe today, a quantum-to-classical transition — typically described by decoherence — is expected. How do these two effects, quantum coherence and classicalization, interplay during inflation? Addressing this requires quantitative analysis informed by current observational constraints on inflationary models.
+</div>
+<img src='/images/boundary_wavefunction.png' style="float: right; padding-left:15px" width="280">
+<div>
+    We find that decoherence rates estimated in the literature often neglect contributions from slow-roll–unsuppressed total-derivative interaction terms, leading to underestimations by several orders of magnitude. To systematically treat all interaction terms perturbatively within gravitational theory, we analyze the wavefunction of the universe, in which the phase factor — responsible for decoherence — is correctly identified.
 </div>
 
 **Selected papers:**
@@ -44,7 +66,7 @@ Gravitational production of primordial massive particles
 
 <img src='/images/massive_particle.png' style="float: right; padding-left:15px" width="280">
 <div>
-    Inflation is potentially a high-energy environment to produce lots of unknown particles with mass scale unreachable by particle colliders. To probe the imprints left by such particles to cosmological observations, we explore the detailed particle production process in the inflationary expansion with the asymptotic series technique.
+    The inflationary epoch offers a high-energy setting where particles with masses above collider-accessible scales may be produced. To investigate the imprints of such heavy fields on cosmological observables, we analyze their production mechanisms during inflation using asymptotic series technique.
 </div>
 
 **Selected papers:**
