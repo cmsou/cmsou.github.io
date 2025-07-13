@@ -39,7 +39,7 @@ Professional background
 
 Contact
 ======
-📧 **Email:** cmsou@mail.tsinghua.edu.cn **/** cmsou@connect.ust.hk
+📧 **Email:** chonman.sou@gmail.com **/** cmsou@mail.tsinghua.edu.cn **/** cmsou@connect.ust.hk
 
 
 
