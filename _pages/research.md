@@ -19,7 +19,7 @@ I work on the intersection between theoretical high energy physics, cosmology, q
 
 ---
 
-Entanglement features from heavy field scattering
+Entanglement features in scattering mediated by heavy field
 ======
 <img src='/images/entanglement_scattering.png' style="float: right; padding-left:15px" width="280">
 <div>
@@ -32,7 +32,7 @@ Entanglement features from heavy field scattering
 
 
 **Selected papers:**
-* C. M. Sou, Y. Wang, and X. Zhang, “Entanglement features from heavy particle scattering,” [arXiv:2507.03555](https://arxiv.org/abs/2507.03555).
+* C. M. Sou, Y. Wang, and X. Zhang, “Entanglement features in scattering mediated by heavy particles,” [arXiv:2507.03555](https://arxiv.org/abs/2507.03555).
 
 <br>
 
