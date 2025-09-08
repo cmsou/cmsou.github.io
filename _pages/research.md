@@ -43,11 +43,11 @@ Quantum nature and decoherence of cosmological perturbations
 ======
 <img src='/images/demo_system_environment.png' style="float: right; padding-left:15px" width="280">
 <div>
-    Inflation proposes that the large-scale structure of the universe originates from the amplification of primordial quantum vacuum fluctuations. These fluctuations are stretched to cosmological scales during inflation, and their quantum features may remain observable, as suggested in some recent proposals. However, to reconcile these quantum-origin perturbations with the classical structures we observe today, a quantum-to-classical transition — typically described by decoherence — is expected. How do these two effects, quantum coherence and classicalization, interplay during inflation? Addressing this requires quantitative analysis informed by current observational constraints on inflationary models.
+    Inflation proposes that the large-scale structure of the universe originates from the amplification of primordial quantum vacuum fluctuations. These fluctuations are stretched to cosmological scales during inflation, and their quantum features may remain observable, as suggested in some recent proposals. However, to reconcile these quantum-origin perturbations with the classical structures we observe today, a quantum-to-classical transition, typically described by decoherence, is expected. How do these two effects, quantum coherence and classicalization, interplay during inflation? Addressing this requires quantitative analysis informed by current observational constraints on inflationary models.
 </div>
 <img src='/images/boundary_wavefunction.png' style="float: right; padding-left:15px" width="280">
 <div>
-    We find that decoherence rates estimated in the literature often neglect contributions from slow-roll–unsuppressed total-derivative interaction terms, leading to underestimations by several orders of magnitude. To systematically treat all interaction terms perturbatively within gravitational theory, we analyze the wavefunction of the universe, in which the phase factor — responsible for decoherence — is correctly identified.
+    We find that decoherence rates estimated in the literature often neglect contributions from slow-roll–unsuppressed total-derivative interaction terms, leading to underestimations by several orders of magnitude. To systematically treat all interaction terms perturbatively within gravitational theory, we analyze the wavefunction of the universe, in which the phase factor, responsible for decoherence, is correctly identified.
 </div>
 
 **Selected papers:**
