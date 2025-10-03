@@ -32,7 +32,7 @@ Entanglement features in scattering mediated by heavy field
 
 
 **Selected papers:**
-* C. M. Sou, Y. Wang, and X. Zhang, “Entanglement features in scattering mediated by heavy particles,” [arXiv:2507.03555](https://arxiv.org/abs/2507.03555).
+* C. M. Sou, Y. Wang, and X. Zhang, “Entanglement features in scattering mediated by heavy particles,” [JHEP 10 (2025) 003](https://doi.org/10.1007/JHEP10(2025)003), [arXiv:2507.03555](https://arxiv.org/abs/2507.03555).
 
 <br>
 
