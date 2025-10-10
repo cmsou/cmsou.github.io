@@ -11,12 +11,14 @@ toc: true
 ---
 {% include toc %}
 
-> **I'm working in theoretical physics, looking for new principles and phenomena in the primordial universe.**
+> **Looking for new principles and phenomena in the primordial universe and particle physics through the lens of quantum information theory.**
 
 ---
 
 News
 ======
+* 📝 **Oct 20, 2025:**
+  I will participate in [the 16th Asia Pacific Physics Conference (APPC16)](https://appc16.scimeeting.cn/en/web/index/24735). It is my first time to present my [particle physics x QI paper](https://arxiv.org/abs/2507.03555) in such a big event.
 * 📝 **Sep 25, 2025:**
   I will give a [talk](https://indico.itp.ac.cn/event/349/contributions/1907/) about my [paper](https://arxiv.org/abs/2507.03555) of QI at collider in the 2025 Beijing Particle Physics and Cosmology Symposium (BPCS 2025).
 * 📝 **July 8, 2025:**
