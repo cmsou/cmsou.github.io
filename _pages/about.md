@@ -17,6 +17,10 @@ toc: true
 
 News
 ======
+* 🗣️ **Dec 11, 2025:**
+  I will participate in [the Cosmo‑Astro‑Particle Symposium (CAP 2025) & The 19th TeV Workshop](https://indico.ihep.ac.cn/event/27681/contributions/208525/) organized by Tsinghua University.
+* ✈️ **Dec 8, 2025:**
+  I visited RIKEN iTHEMS during Dec 1-5 and gave a seminar talk about the [entanglement structure in scattering](https://arxiv.org/abs/2507.03555). RIKEN iTHEMS is a truly unique institute that brings together researchers from diverse fields, and its interdisciplinary research culture is deeply inspiring.
 * 🗣️ **Oct 20, 2025:**
   I will participate in [the 16th Asia Pacific Physics Conference (APPC16)](https://appc16.scimeeting.cn/en/web/index/24735). It is my first time to present my [particle physics x QI paper](https://arxiv.org/abs/2507.03555) in such a big event.
 * 🗣️ **Sep 25, 2025:**
