@@ -42,19 +42,29 @@ See [INSPIRE-HEP](https://inspirehep.net/authors/1512636){: .btn} or [Google Sch
 
 ---
 
-Talks and Posters
+Conference and workshop 
 ======
   <ul>{% for post in site.talks reversed %}
+  {% if post.type <> "Seminar talk" %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
+  {% endif %}
+{% endfor %}</ul>
   <ul>{% for post in site.posters reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+---
 
+Seminar talks 
+======
+  <ul>{% for post in site.talks reversed %}
+  {% if post.type == "Seminar talk" %}
+    {% include archive-single-talk-cv.html %}
+  {% endif %}
+{% endfor %}</ul>
 
 ---
+
   
 Teaching assistants
 ======

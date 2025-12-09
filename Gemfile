@@ -29,3 +29,4 @@ end
 gem "tzinfo"
 gem "tzinfo-data"
 gem "webrick"
+gem "jekyll-toc"
