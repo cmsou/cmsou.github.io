@@ -10,7 +10,7 @@ toc: true
 
 # Talk map
 
-<p style="text-decoration:none;"> See a map of all the places I've given a talk! </p>
+<p style="text-decoration:none;"> Explore an interactive map of all my talk locations. If markers don’t appear immediately, just drag or zoom the map. </p>
 <iframe src="talkmap/map.html" width="100%" height="500px"></iframe>
 
 
