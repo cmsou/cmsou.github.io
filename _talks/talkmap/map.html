@@ -20,12 +20,18 @@
     	<div id="map"></div>
     	<span>Mouse over a cluster to see the bounds of its children and click a cluster to zoom to those bounds</span>
     	<script type="text/javascript">
+			// --- Detect mobile device ---
+   			var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+   			// --- Set center + zoom depending on device ---
+    		var centerCoords = isMobile ? L.latLng(20, 0) : L.latLng(30, 50);
+  			var initialZoom  = isMobile ? 1.5 : 0.7;
     		var tiles = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
               maxZoom: 18,
               attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
-                    }),
-    			latlng = L.latLng(30, 50);
-    		var map = L.map('map', {center: latlng, zoom: 0.7, layers: [tiles]});
+                    });
+    		// --- latlng = L.latLng(30, 50); ---
+    		var map = L.map('map', {center: centerCoords, zoom: initialZoom, layers: [tiles]});
     		var markers = L.markerClusterGroup({
     			showCoverageOnHover: false,
     			maxClusterRadius: 80
