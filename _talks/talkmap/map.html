@@ -23,7 +23,7 @@
    			var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
    			// --- Set center + zoom depending on device ---
-    		var centerCoords = isMobile ? L.latLng(10, 40) : L.latLng(30, 50);
+    		var centerCoords = isMobile ? L.latLng(10, 45) : L.latLng(30, 50);
   			var initialZoom  = isMobile ? 0.04 : 0.7;
     		var tiles = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
               maxZoom: 18,
