@@ -1,5 +1,5 @@
 var addressPoints = [
-["Seminar talk at City University of Hong Kong, Hong Kong, China",22.3351853259,114.170459318],
+["Seminar talk at City University of Hong Kong, Hong Kong, China",22.335185,114.170459],
 ["Symposium talk at The 2025 Beijing Particle Physics and Cosmology Symposium (BPCS 2025), Beijing, China",40.133394,116.487185],
 ["Seminar talk at The Higgs Centre for Theoretical Physics, The University of Edinburgh",55.9216534,-3.1766198],
 ["Seminar talk at DAMTP, The University of Cambridge",52.2103076,0.0984805],
