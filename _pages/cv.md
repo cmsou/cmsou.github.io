@@ -31,7 +31,9 @@ Education
 Employment
 ======
 * Postdoc
-  * **2023 - now:** Shuimu Scholar, Tsinghua University  
+  * **2026 - now:** UM Macao Fellow, University of Macau
+* Postdoc
+  * **2023 - 2026:** Shuimu Scholar, Tsinghua University  
 
 ---
 

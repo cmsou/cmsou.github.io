@@ -17,6 +17,8 @@ toc: true
 
 News
 ======
+* 💼 **Sep 1, 2026:**
+  Start my new position of UM Macao Fellow at the University of Macau, my hometown.
 * 🗣️ **Dec 11, 2025:**
   I will participate in [the Cosmo‑Astro‑Particle Symposium (CAP 2025) & The 19th TeV Workshop](https://indico.ihep.ac.cn/event/27681/contributions/208525/) organized by Tsinghua University.
 * ✈️ **Dec 8, 2025:**
@@ -34,7 +36,9 @@ News
 Professional background
 ======
 * Postdoc
-  * **2023 - now:** Tsinghua University
+  * **2026 - now:** University of Macau
+* Postdoc
+  * **2023 - 2026:** Tsinghua University
 * PhD, advisor: [Yi Wang](https://phyw.people.ust.hk/)
   * **2020 - 2023:** Hong Kong University of Science and Technology (HKUST)
 * MPhil
@@ -47,7 +51,7 @@ Professional background
 
 Contact
 ======
-📧 **Email:** [chonman.sou@gmail.com](mailto:chonman.sou@gmail.com) **/** [cmsou@mail.tsinghua.edu.cn](mailto:cmsou@mail.tsinghua.edu.cn) **/** [cmsou@connect.ust.hk](mailto:cmsou@connect.ust.hk)
+📧 **Email:** [chonman.sou@gmail.com](mailto:chonman.sou@gmail.com) **/** [chonmansou@um.edu.mo](mailto:chonmansou@um.edu.mo) **/** [cmsou@connect.ust.hk](mailto:cmsou@connect.ust.hk)
 
 
 
